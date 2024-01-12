@@ -4,6 +4,7 @@
 
 #### Project Overview:
 Create a responsive and visually appealing website for an anime-themed gym, integrating HTML, CSS, and JavaScript to provide an interactive and engaging user experience.
+Read more about the intention of the establishmenet [here](https://github.com/JonFD4/AnimeGym/blob/main/about.md)
 
 #### Key Features:
 
