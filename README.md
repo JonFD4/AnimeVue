@@ -78,7 +78,7 @@ Read more about the intention of the establishmenet [here](https://github.com/Jo
   
 ## Setting up
 
-<detaisl>  
+<details>  
 <summary> setting up your local repositiory and interacting with upstream</summary>
 
    
@@ -164,4 +164,5 @@ Read more about the intention of the establishmenet [here](https://github.com/Jo
       ```bash
       git push origin main
       ```
+      
 </details>
