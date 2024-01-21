@@ -77,6 +77,7 @@ Read more about the intention of the establishmenet [here](https://github.com/Jo
    - Maintain comprehensive documentation for the project, including setup instructions and coding guidelines.
   
 ## Setting up
+
 <detaisl>  
 <summary> setting up your local repositiory and interacting with upstream</summary>
 
