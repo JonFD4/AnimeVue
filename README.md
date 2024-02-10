@@ -1,4 +1,4 @@
-# AnimeGym
+# AnimeVue
 
 ### Project Scope: Anime Gym Website
 
