@@ -1,6 +1,6 @@
-# AnimeVue
+# AnimeVue 
 
-### Project Scope: Anime Gym Website
+### Project Scope: Anime Vue Website
 
 #### Project Overview:
 Create a responsive and visually appealing website for an anime-themed gym, integrating HTML, CSS, and JavaScript to provide an interactive and engaging user experience.
